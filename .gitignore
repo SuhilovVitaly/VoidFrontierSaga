@@ -237,3 +237,11 @@ Thumbs.db
 *.blend98
 *.blend99
 *.blend100
+/VoidFrontierSaga/Temp
+/VoidFrontierSaga/Library/ShaderCache
+/VoidFrontierSaga/Library/StateCache
+/VoidFrontierSaga/Library/PackageCache
+/VoidFrontierSaga/Library/Search
+/VoidFrontierSaga/Library/Artifacts
+/VoidFrontierSaga/Library/Bee/artifacts
+/VoidFrontierSaga/Library/Bee/CachedNodeOutput
